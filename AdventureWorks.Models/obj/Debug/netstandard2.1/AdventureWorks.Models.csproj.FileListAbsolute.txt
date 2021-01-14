@@ -1,0 +1,9 @@
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\bin\Debug\netstandard2.1\AdventureWorks.Models.deps.json
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\bin\Debug\netstandard2.1\AdventureWorks.Models.dll
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\bin\Debug\netstandard2.1\AdventureWorks.Models.pdb
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\netstandard2.1\AdventureWorks.Models.csprojAssemblyReference.cache
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\netstandard2.1\AdventureWorks.Models.AssemblyInfoInputs.cache
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\netstandard2.1\AdventureWorks.Models.AssemblyInfo.cs
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\netstandard2.1\AdventureWorks.Models.csproj.CoreCompileInputs.cache
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\netstandard2.1\AdventureWorks.Models.dll
+D:\20610\AZ-204\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\netstandard2.1\AdventureWorks.Models.pdb
